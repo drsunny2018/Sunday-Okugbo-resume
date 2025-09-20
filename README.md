@@ -1,2 +1,2 @@
-# Sunday-Okugbo-resume
+# resume
 My resume
